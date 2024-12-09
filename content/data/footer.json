@@ -1,6 +1,5 @@
 {
     "logo": {
-        "url": "/images/355458198_968812660826076_8088600072879537536_n.png",
         "altText": "Logo light",
         "type": "ImageBlock",
         "elementId": "LOGO"
