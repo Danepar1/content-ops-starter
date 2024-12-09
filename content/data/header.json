@@ -83,7 +83,7 @@
         },
         {
             "label": "Buy",
-            "url": "/",
+            "url": "www.etsy.com",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "primary",
