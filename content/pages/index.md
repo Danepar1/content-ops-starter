@@ -81,8 +81,7 @@ sections:
       - url: /images/vise-logo.svg
         altText: Vise logo
         type: ImageBlock
-      - url: /images/Etsy-emblem.jpg
-        altText: Telus logo
+      - altText: Telus logo
         type: ImageBlock
       - url: /images/contenful-logo.svg
         altText: Contentful logo
