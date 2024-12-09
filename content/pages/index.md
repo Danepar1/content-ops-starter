@@ -7,7 +7,10 @@ sections:
       text: Unblock your team boost your time to production
       color: text-dark
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: >-
+      Discover the art of fine jewelry with Golden Leopard, where elegance meets
+      craftsmanship. Explore our exclusive collection of gold and silver
+      jewelry, each piece designed to celebrate your unique style.
     text: >+
       ### What You’ll Find Here:
 
