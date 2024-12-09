@@ -2,7 +2,8 @@
     "logo": {
         "altText": "Logo light",
         "type": "ImageBlock",
-        "elementId": "LOGO"
+        "elementId": "LOGO",
+        "url": "/images/lgogowebsite.png"
     },
     "text": "© 2024 Golden Leopard\n",
     "primaryLinks": {
