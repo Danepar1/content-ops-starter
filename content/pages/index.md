@@ -32,7 +32,7 @@ sections:
 
 
     actions:
-      - label: d
+      - label: Etsy
         altText: ''
         url: /
         showIcon: false
