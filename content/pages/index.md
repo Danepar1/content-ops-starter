@@ -32,7 +32,7 @@ sections:
 
 
     actions:
-      - label: Get started
+      - label: d
         altText: ''
         url: /
         showIcon: false
