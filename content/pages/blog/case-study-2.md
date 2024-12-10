@@ -2,11 +2,7 @@
 title: Sterling Silver Rhodium-Plated Pendant with Lab-Grown Ruby
 slug: case-study-2
 date: '2022-02-16'
-excerpt: >-
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante lorem,
-  tincidunt ac leo efficitur, feugiat tempor odio. Curabitur at auctor sapien.
-  Etiam at cursus enim. Suspendisse sed augue tortor. Nunc eu magna vitae lorem
-  pellentesque fermentum. Sed in facilisis dui.
+excerpt: Sterling Silver
 featuredImage:
   url: /images/IMG_8576.jpg
   altText: Case study 2
