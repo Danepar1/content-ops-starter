@@ -1,5 +1,5 @@
 ---
-title: Case study 1
+title: Sterling Silver Rhodium-Plated Pendant with Lab-Grown Emerald
 slug: case-study-1
 date: '2022-01-05'
 excerpt: >-
