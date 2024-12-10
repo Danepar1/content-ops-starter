@@ -27,7 +27,7 @@ bottomSections:
     type: DividerSection
   - items:
       - title: Golden Leopard
-        tagline: This is the tagline
+        tagline: ''
         subtitle: >-
           Crafting Timeless JewelryGolden Leopard is proud to be a trusted name
           in the world of fine jewelry, specializing in high-quality silver and
