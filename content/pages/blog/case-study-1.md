@@ -26,7 +26,7 @@ bottomSections:
           - pr-7
     type: DividerSection
   - items:
-      - title: About Company
+      - title: Golden Leopard
         tagline: This is the tagline
         subtitle: >-
           Crafting Timeless JewelryGolden Leopard is proud to be a trusted name
