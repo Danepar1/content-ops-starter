@@ -1,5 +1,5 @@
 ---
-title: Sterling Silver Rhodium-Plated Pendant with Lab-Grown Emerald
+title: Sterling Silver Rhodium-Plated Pendant with Lab-Grown Ruby
 slug: case-study-2
 date: '2022-02-16'
 excerpt: >-
