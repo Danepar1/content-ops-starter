@@ -40,7 +40,7 @@ bottomSections:
           cherished for a lifetime.Experience the perfect blend of artistry and
           quality with Golden Leopard.
         image:
-          altText: "\U0001D4D6\U0001D4F8\U0001D4F5\U0001D4ED\U0001D4EE\U0001D4F7 \U0001D4F5\U0001D4EE\U0001D4F8\U0001D4F9\U0001D4EA\U0001D4FB\U0001D4ED"
+          altText: "Company logo\U0001D4D6\U0001D4F8\U0001D4F5\U0001D4ED\U0001D4EE\U0001D4F7 \U0001D4F5\U0001D4EE\U0001D4F8\U0001D4F9\U0001D4EA\U0001D4FB\U0001D4ED"
           styles:
             self:
               margin:
