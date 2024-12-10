@@ -1,5 +1,5 @@
 ---
-title: Case study 2
+title: Sterling Silver Rhodium-Plated Pendant with Lab-Grown Emerald and 15 CZ Stones
 slug: case-study-2
 date: '2022-02-16'
 excerpt: >-
