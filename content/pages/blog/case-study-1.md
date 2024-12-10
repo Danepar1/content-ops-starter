@@ -29,9 +29,17 @@ bottomSections:
       - title: About Company
         tagline: This is the tagline
         subtitle: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
-          lorem, tincidunt ac leo efficitur, feugiat tempor odio. Curabitur at
-          auctor sapien.
+          Golden Leopard: Crafting Timeless JewelryGolden Leopard is proud to be
+          a trusted name in the world of fine jewelry, specializing in
+          high-quality silver and gold pieces. Our passion lies in creating
+          stunning designs that capture elegance, sophistication, and
+          individuality.From meticulously crafted sterling silver creations to
+          luxurious gold pieces, each item reflects our dedication to superior
+          craftsmanship and attention to detail. Whether you're seeking a
+          meaningful gift or a statement piece for yourself, Golden Leopard
+          delivers timeless jewelry designed to be cherished for a
+          lifetime.Experience the perfect blend of artistry and quality with
+          Golden Leopard.
         image:
           url: /images/telus-logo.svg
           altText: Company logo
